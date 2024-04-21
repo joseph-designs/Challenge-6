@@ -35,12 +35,17 @@ nav {
     text-align: right;
   }
 
+.post {
+    display: flex;
+    flex-direction: column;
+}
+
 .posttitle {
 
 }
 
 .postsubtitle {
-    
+
 }
 
   .postinfo {
