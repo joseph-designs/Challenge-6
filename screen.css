@@ -1,14 +1,26 @@
 /* Add screen styles below */
 nav {
-    background-color: yellow; 
+    background-color: rgb(255, 102, 0); 
     list-style-type: none;
     text-align: center;
     margin: 0;
     padding: 0;
   }
-  
+
   li {
     display: inline-block;
     font-size: 20px;
     padding: 20px;
+  }
+  
+  #logo {
+    border-width: 2px;
+    border-color: white;
+    color: white;
+  }
+  #title {
+    
+  }
+  #login {
+    text-align: right;
   }
