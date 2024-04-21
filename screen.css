@@ -1,4 +1,8 @@
 /* Add screen styles below */
+body {
+    background-color: rgb(246, 246, 239);
+}
+
 h1 {
     font-size: 16px;
 }
