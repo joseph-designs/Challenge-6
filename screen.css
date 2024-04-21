@@ -7,6 +7,10 @@ h1 {
     font-size: 16px;
 }
 
+h6 { 
+    margin: 0px;
+}
+
 div {
     display: inline-block;
 }
@@ -26,7 +30,7 @@ ul {
 li {
     display: inline-block;
     font-size: 20px;
-    padding: 5px;
+    padding: 3px;
   }
   
 #logo {
