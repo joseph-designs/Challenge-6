@@ -2,6 +2,7 @@
 body {
     background-color: #f5f5e2;
     margin: 0px;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -58,7 +59,7 @@ li {
 .post {
     display: flex;
     flex-direction: column;
-    margin-top: 16px;
+    margin-top: 12px;
 }
 .numbers {
     color: #828282;
