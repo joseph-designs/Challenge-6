@@ -43,16 +43,26 @@ nav {
     display: flex;
     flex-direction: column;
 }
+.numbers {
+    font-color: #828282;
+
+}
+
+.icon {
+    font-color: #828282;
+}
 
 .posttitle {
 
 }
 
 .postsubtitle {
+    font-color: #828282;
 
 }
 
   .postinfo {
+    font-color: #828282;
     font-size: 12px;
   }
   
