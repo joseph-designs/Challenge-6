@@ -44,12 +44,12 @@ nav {
     flex-direction: column;
 }
 .numbers {
-    font-color: #828282;
+    color: #828282;
 
 }
 
 .icon {
-    font-color: #828282;
+    color: #828282;
 }
 
 .posttitle {
@@ -57,12 +57,12 @@ nav {
 }
 
 .postsubtitle {
-    font-color: #828282;
+    color: #828282;
 
 }
 
   .postinfo {
-    font-color: #828282;
+    color: #828282;
     font-size: 12px;
   }
   
