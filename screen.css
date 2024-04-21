@@ -19,19 +19,23 @@ nav {
     padding: 0;
   }
 
-  li {
+ul {
+    margin: 0px;
+}
+
+li {
     display: inline-block;
     font-size: 20px;
-    padding: 20px;
+    padding: 5px;
   }
   
-  #logo {
+#logo {
     border-width: 2px;
     border-color: white;
     color: white;
   }
 
-  #title {
+#title {
     
   }
 
@@ -61,7 +65,7 @@ nav {
 
 }
 
-  .postinfo {
+.postinfo {
     color: #828282;
     font-size: 12px;
   }
